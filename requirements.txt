@@ -1,0 +1,3 @@
+# tocheck latest version go to https://pypi.org/
+django==3.2.4
+djangorestframework==3.12.4
